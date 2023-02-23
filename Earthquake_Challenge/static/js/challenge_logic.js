@@ -213,7 +213,7 @@ legend.onAdd = function() {
   legend.addTo(map);
 
 let myStyle = {
-  color: "#00008b",
+  color: "#00FFFF",
   weight: 2
 };
 
