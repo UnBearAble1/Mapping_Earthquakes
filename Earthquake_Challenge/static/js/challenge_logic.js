@@ -23,7 +23,7 @@ let darkMode = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/til
 
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
-	center: [40.7, -94.5],
+	center: [30.0, -30.0],
 	zoom: 3,
 	layers: [satelliteStreets]
 });

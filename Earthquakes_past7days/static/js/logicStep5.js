@@ -104,8 +104,6 @@ pointToLayer: function(feature, latlng) {
 
       earthquakes.addTo(map);
       
-
-
 // Create a legend control object.
 let legend = L.control({position: "bottomright"});
 
